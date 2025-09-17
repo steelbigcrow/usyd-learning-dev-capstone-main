@@ -183,6 +183,7 @@ cython_debug/
 # MacOS
 .ds_store
 
-# claude code
+# agent
 CLAUDE.md
 .claude
+AGENTS.md
