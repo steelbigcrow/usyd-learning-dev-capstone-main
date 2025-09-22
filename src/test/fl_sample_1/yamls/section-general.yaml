@@ -2,6 +2,6 @@
 # general section args
 #-----------------------------
 general:
-  device: cpu
+  device: cuda
   training_rounds: 50      # Training round
    

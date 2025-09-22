@@ -3,5 +3,5 @@
 #-----------------------------
 aggregation:
   method: fedavg
-  device: cpu
+  device: cuda
   is_wbab: False
